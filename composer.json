@@ -1,0 +1,12 @@
+{
+    "name": "root/test",
+    "authors": [
+        {
+            "name": "Tapos GHosh",
+            "email": "tapos.aa@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.20"
+    }
+}
